@@ -5,7 +5,7 @@
 **Audit Ace is built, to combat financial fraud in the cryptocurrency industry, a growing security firm that provides audits, 
 Smart contract creation, and end-to-end solutions to all crypto-related queries.**
 
-### IMPORTANT LINKS :bell:
+### LINKS TO OUR SOCIAL MEDIA :bell:
 
 `WEBSITE:` https://auditace.tech/  
 
