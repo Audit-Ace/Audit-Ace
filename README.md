@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###   WELCOME TO AUDITACE :rocket: 
-![linkdin banner](https://auditace.tech/assets/images/logo/logo.png)
+![linkdin banner](https://pbs.twimg.com/profile_banners/1575191742563127296/1665191044/1080x360)
 
 **Audit Ace is built, to combat financial fraud in the cryptocurrency industry, a growing security firm that provides audits, 
 Smart contract creation, and end-to-end solutions to all crypto-related queries.**
