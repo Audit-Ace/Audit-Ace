@@ -13,7 +13,7 @@ Smart contract creation, and end-to-end solutions to all crypto-related queries.
 
 `TWITTER:` https://twitter.com/auditace_
 
-`TELEGRAM:` https://auditace.tech/
+`TELEGRAM:` https://t.me/Audit_Ace
 
 `CONTACT US: ` https://t.me/Alissa_AuditAce
 
