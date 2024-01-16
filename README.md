@@ -13,9 +13,9 @@ Smart contract creation, and end-to-end solutions to all crypto-related queries.
 
 `TWITTER:` https://twitter.com/auditace_
 
-`TELEGRAM:` 
+`TELEGRAM:` https://auditace.tech/
 
-`EMAIL (CONTACT US): `
+`CONTACT US: ` https://t.me/Alissa_AuditAce
 
 <!-- 
 **Audit-Ace/Audit-Ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
